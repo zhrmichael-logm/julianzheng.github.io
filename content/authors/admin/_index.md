@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 郑浩然
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Haoran Julian Zheng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Haoran
+last_name: Zheng
 
 # Status emoji
 status:
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Zhejiang University
     url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:hrzheng_zju@zju.edu.cn'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -47,15 +47,16 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - Robotics
+  - Dexterous Manipulation
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Tactile Sensing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Mechanics
+    institution: Zhejiang University
+    date_start: 2020-09-01
+    date_end: 2025-06-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
